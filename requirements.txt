@@ -1,1 +1,5 @@
 pip==22.0.2
+pydantic==2.5.3  
+pydantic_settings==2.1.0
+psycopg2-binary==2.9.9
+sqlalchemy==1.4.50
